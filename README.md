@@ -4,8 +4,11 @@
 첫 번째 프로젝트로 6일간 HTML + CSS를 활용하여 기존 페이지 제작
 
 
+## Tech Stack with Tools
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+
+![Visual Studio Icon](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white) ![VS Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 
 
 ## **[메인 페이지](https://www.kakaocorp.com/page/)**
