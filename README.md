@@ -1,14 +1,14 @@
-
 # CSS Clone - [카카오](https://www.kakaocorp.com/page/)
 
 첫 번째 프로젝트로 6일간 HTML + CSS를 활용하여 기존 페이지 제작
 
 #### 🗓️ 프로젝트 기간: 24/10/24 ~ 24/10/29
 
-#### ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)[@ThoI-i](https://github.com/ThoI-i) [@yujin-5](https://github.com/yujin-5) [@parkchenui](https://github.com/parkchenui)
+[![GitHub Badge](https://img.shields.io/badge/ThoI－i-181717?logo=github&logoColor=white&labelColor=181717)](https://github.com/ThoI-i)
 
-[![GitHub Badge](https://img.shields.io/badge/@ThoI-181717?logo=github&logoColor=white&labelColor=181717)](https://github.com/ThoI-i) ![GitHub Badge](https://img.shields.io/badge/-i-181717?labelColor=181717)
+[![GitHub Badge](https://img.shields.io/badge/yujin－5-181717?logo=github&logoColor=white&labelColor=181717)](https://github.com/yujin-5)
 
+[![GitHub Badge](https://img.shields.io/badge/parkchenui-181717?logo=github&logoColor=white&labelColor=181717)](https://github.com/parkchenui)
 
 ## Tech Stack with Tools
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
