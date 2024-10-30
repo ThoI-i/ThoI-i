@@ -48,13 +48,14 @@ color: inherit; /* 링크 색상을 부모 색상과 동일하게 설정 */
 <details>
   <summary>Video가 재생되지 않을 시</summary>
   autoplay muted playsinline 추가
-
-"<video src="./img_JW/Atc1_Video.mp4" autoplay muted playsinline></video>"
+```html
+<video src="./img_JW/Atc1_Video.mp4" autoplay muted playsinline></video>
+```
 </details>
 
 
 <details>
-<summary>박스 내 텍스트/이미지가 절반 영역하도록 설정</summary>
+<summary>박스 내 텍스트/이미지가 절반 영역하도록 설정정</summary>
 </details>
 
 
