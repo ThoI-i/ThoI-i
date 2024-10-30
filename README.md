@@ -54,10 +54,14 @@ color: inherit; /* 링크 색상을 부모 색상과 동일하게 설정 */
   <video src="./img_JW/Atc1_Video.mp4" autoplay muted playsinline></video>
   ```
 </details> 
-
-
 <details>
 <summary>박스 내 텍스트/이미지가 절반 영역하도록 설정정</summary>
+1. Flexbox: .img-box에 display: flex;와 flex-direction: column;을 사용하여 텍스트와 이미지를 세로로 배치합니다.
+2 . flex: 1: 각 요소에 flex: 1;을 설정하여 텍스트와 이미지가 각각의 높이를 절반씩 차지하도록 합니다.
+</details>
+<details>
+<summary>p태그 내 문장을 단락 나누기</summary>
+<p> 태그 대신 <div> 태그를 사용하여 각 단락을 감싸고, CSS를 통해 스타일링하는 방법이 있습니다. margin-bottom: 16px; /* 단락 간격 조절 */
 </details>
 
 
