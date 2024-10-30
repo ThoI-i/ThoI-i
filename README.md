@@ -5,4 +5,9 @@
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&labelColor=F7DF1E)
 
 
+![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+
+
 ![VS Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code_1.95.0-007ACC?logo=visual-studio-code&logoColor=white)
