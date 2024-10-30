@@ -6,8 +6,11 @@
 #### 🗓️ 프로젝트 기간: 24/10/24 ~ 24/10/29
 
 
+
 [![GitHub Badge](https://img.shields.io/badge/ThoI－i-181717?logo=github&logoColor=white&labelColor=181717)](https://github.com/ThoI-i)
+
 [![GitHub Badge](https://img.shields.io/badge/yujin－5-181717?logo=github&logoColor=white&labelColor=181717)](https://github.com/yujin-5)
+
 [![GitHub Badge](https://img.shields.io/badge/parkchenui-181717?logo=github&logoColor=white&labelColor=181717)](https://github.com/parkchenui)
 
 
@@ -31,20 +34,14 @@
 
 ### 📌이슈
 <details>
-  <summary>이슈1</summary>
-
-  여기에 드롭다운으로 숨길 내용을 작성합니다.
-  
-  - 예: 목록 항목 1
-  - 예: 목록 항목 2
+  <summary>display: flex를 쓸 수 없는 상황에서 아이콘만 가운데 정렬</summary>
+부모를 position: relative;
+자식(아이콘)을 position: absolute로 조정
 </details>
 <details>
-  <summary>이슈2</summary>
-
-  여기에 드롭다운으로 숨길 내용을 작성합니다.
-  
-  - 예: 목록 항목 1
-  - 예: 목록 항목 2
+  <summary>a태크 범위 늘리기</summary>
+부모에 display: inline-flex;
+자식(a태그)에  padding + width, height 100%로 범위 늘리기
 </details>
 
 ### 💡느낀점
