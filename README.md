@@ -8,9 +8,7 @@
 
 
 [![GitHub Badge](https://img.shields.io/badge/ThoI－i-181717?logo=github&logoColor=white&labelColor=181717)](https://github.com/ThoI-i)
-
 [![GitHub Badge](https://img.shields.io/badge/yujin－5-181717?logo=github&logoColor=white&labelColor=181717)](https://github.com/yujin-5)
-
 [![GitHub Badge](https://img.shields.io/badge/parkchenui-181717?logo=github&logoColor=white&labelColor=181717)](https://github.com/parkchenui)
 
 
@@ -56,7 +54,7 @@ color: inherit; /* 링크 색상을 부모 색상과 동일하게 설정 */
 
 
 <details>
-<summary>박스 내 텍스트/이미지가 절반 영역하도록 설정정</summary>
+<summary>박스 내 텍스트/이미지가 절반 영역하도록 설정</summary>
 </details>
 
 
