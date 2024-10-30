@@ -47,11 +47,12 @@ color: inherit; /* 링크 색상을 부모 색상과 동일하게 설정 */
 </details>
 <details>
   <summary>Video가 재생되지 않을 시</summary>
+  
   autoplay muted playsinline 추가
-```html
-<video src="./img_JW/Atc1_Video.mp4" autoplay muted playsinline></video>
-</details>
-```
+  
+  ```html
+  <video src="./img_JW/Atc1_Video.mp4" autoplay muted playsinline></video>
+</details> ```
 
 
 <details>
