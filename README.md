@@ -7,7 +7,7 @@
 
 #### ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)[@ThoI-i](https://github.com/ThoI-i) [@yujin-5](https://github.com/yujin-5) [@parkchenui](https://github.com/parkchenui)
 
-[![GitHub Badge](https://img.shields.io/badge/ThoI%2Di-181717?logo=github&logoColor=white&labelColor=181717)](https://github.com/ThoI-i)
+[![GitHub Badge](https://img.shields.io/badge/@ThoI-181717?logo=github&logoColor=white&labelColor=181717)](https://github.com/ThoI-i) ![GitHub Badge](https://img.shields.io/badge/-i-181717?labelColor=181717)
 
 
 ## Tech Stack with Tools
