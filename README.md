@@ -65,6 +65,7 @@ color: inherit; /* 링크 색상을 부모 색상과 동일하게 설정 */
  다른 브랜치 → main 브랜치 Pull requests 중 동일 파일 명이 있어 Conflict 발생
 
  1️⃣ GitHub에서 Pull requests close → 로컬에서 문제해결 후 Pull reqeusts 재요청
+ 
  2️⃣ 문제 파일 명 수정 후 commit → GitHub Merge 가능으로 변경됨
 
 ### 💡느낀점
