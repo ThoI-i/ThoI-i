@@ -31,17 +31,34 @@
 ### 📜[회의록](https://www.notion.so/12920f09dc2a803594e0daef10f9c3a1?v=12920f09dc2a8177862c000c67077de9)
 
 ### ✒️배운점
-
-### 📌이슈
 <details>
-  <summary>display: flex를 쓸 수 없는 상황에서 아이콘만 가운데 정렬</summary>
+  <summary>display: flex 사용불가 상황 아이콘만 가운데 정렬</summary>
 부모를 position: relative;
 자식(아이콘)을 position: absolute로 조정
 </details>
 <details>
-  <summary>a태크 범위 늘리기</summary>
+  <summary>a태크 범위 늘리기 / 속성 없애기</summary>
+-태그 범위 늘리기
 부모에 display: inline-flex;
 자식(a태그)에  padding + width, height 100%로 범위 늘리기
+
+-속성 없애기
+ text-decoration: none; /* 밑줄 제거 */
+  color: inherit; /* 링크 색상을 부모 색상과 동일하게 설정 */
+}
 </details>
+<details>
+  <summary>Video가 재생되지 않을 시</summary>
+  autoplay muted playsinline 추가
+ex) <video src="./img_JW/Atc1_Video.mp4" autoplay muted playsinline></video>
+</details>
+
+
+<details>
+<summary>박스 내 텍스트/이미지가 절반 영역하도록 설정정</summary>
+</details>
+
+
+### 📌이슈
 
 ### 💡느낀점
