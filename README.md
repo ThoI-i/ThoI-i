@@ -38,19 +38,21 @@
 </details>
 <details>
   <summary>a태크 범위 늘리기 / 속성 없애기</summary>
--태그 범위 늘리기
+🟢태그 범위 늘리기
 부모에 display: inline-flex;
 자식(a태그)에  padding + width, height 100%로 범위 늘리기
 
--속성 없애기
- text-decoration: none; /* 밑줄 제거 */
-  color: inherit; /* 링크 색상을 부모 색상과 동일하게 설정 */
+🟢속성 없애기
+text-decoration: none; /* 밑줄 제거 */
+color: inherit; /* 링크 색상을 부모 색상과 동일하게 설정 */
 }
 </details>
 <details>
   <summary>Video가 재생되지 않을 시</summary>
-  autoplay muted playsinline 추가
-ex) <video src="./img_JW/Atc1_Video.mp4" autoplay muted playsinline></video>
+  **autoplay muted playsinline 추가**
+```
+<video src="./img_JW/Atc1_Video.mp4" autoplay muted playsinline></video>
+```
 </details>
 
 
