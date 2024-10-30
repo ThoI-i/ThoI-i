@@ -10,7 +10,7 @@
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
-![Visual Studio Icon](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white)
+![VS Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 
 ## **[메인 페이지](https://www.kakaocorp.com/page/)**
 ![메인 페이지](https://cdn.discordapp.com/attachments/1300055715003633667/1300779047084757023/image.png?ex=67221464&is=6720c2e4&hm=0e55d7e46f00ecd15d2ea56f005253598e0a3fcac5a228c244dba6b1399de305&.png.)
