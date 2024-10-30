@@ -6,10 +6,6 @@
 #### 🗓️ 프로젝트 기간: 24/10/24 ~ 24/10/29
 
 
-<a href="https://github.com/yujin-5" target="_blank">
-  <img src="https://img.shields.io/badge/ThoI－i-181717?logo=github&logoColor=white&labelColor=181717" alt="GitHub Badge">
-</a>
-
 [![GitHub Badge](https://img.shields.io/badge/ThoI－i-181717?logo=github&logoColor=white&labelColor=181717)](https://github.com/ThoI-i)
 [![GitHub Badge](https://img.shields.io/badge/yujin－5-181717?logo=github&logoColor=white&labelColor=181717)](https://github.com/yujin-5)
 [![GitHub Badge](https://img.shields.io/badge/parkchenui-181717?logo=github&logoColor=white&labelColor=181717)](https://github.com/parkchenui)
