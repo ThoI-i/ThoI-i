@@ -12,7 +12,7 @@
 
 
 
-![VS Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code_1.95.0-007ACC?logo=visual-studio-code&logoColor=white)
+![VS Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code_1.95.3-007ACC?logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ_IDEA_2024.2.2(Community_Edition)-000000?logo=intellijidea&logoColor=white&labelColor=000000)
 ![JDK Badge](https://img.shields.io/badge/-JDK_23-007396?logo=java&logoColor=white&labelColor=007396)
 
