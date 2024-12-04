@@ -4,6 +4,7 @@
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript_ES11(2020)-F7DF1E?logo=javascript&logoColor=black&labelColor=F7DF1E)
 ![Java Badge](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&labelColor=007396)
+<a href="https://example.com" target="_blank">이 링크를 클릭하면 새 창에서 열립니다</a>
 
 
 
