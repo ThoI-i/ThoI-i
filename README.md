@@ -2,10 +2,12 @@
 ## ⚙️ Tech Stack with Tools
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript_ES11(2020)-F7DF1E?logo=javascript&logoColor=black&labelColor=F7DF1E)
-![Java Badge](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&labelColor=007396)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&labelColor=F7DF1E)
 
-![Git Badge](https://img.shields.io/badge/Git_2.47.0.windows.1-F05032?logo=git&logoColor=white)
+![Java Badge](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&labelColor=007396)
+![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
+
+![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
 
