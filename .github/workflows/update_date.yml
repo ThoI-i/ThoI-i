@@ -3,6 +3,7 @@ name: Update Date in README
 on:
   schedule:
     - cron: '0 0 * * *'  # 매일 자정에 실행
+  workflow_dispatch:  # 수동 트리거 추가
 
 jobs:
   update-readme:
@@ -13,8 +14,7 @@ jobs:
         run: |
           DATE=$(date '+%Y-%m-%d')
           sed -i "s/Date_goes_here/$DATE/" README.md
-
           git config --global user.email "ojw1912@gmail.com"
           git config --global user.name "Theo"
-          git commit -am "Automatically update date in README"
+          git diff-index --quiet HEAD || git commit -am "Automatically update date in README"
           git push
