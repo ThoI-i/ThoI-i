@@ -15,6 +15,27 @@ jobs:
           git config user.email "ojw1912@gmail.com"
           git config user.name "Theo"
           git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}
+      - name: Debug Date
+        run: |
+          DATE=$(date '+%d %b %Y')
+          DAY=$(echo $DATE | awk '{print $1}')
+          MONTH=$(echo $DATE | awk '{print $2}')
+          YEAR=$(echo $DATE | awk '{print $3}')
+
+          if [[ $DAY == "01" || $DAY == "21" || $DAY == "31" ]]; then
+            SUFFIX="st"
+          elif [[ $DAY == "02" || $DAY == "22" ]]; then
+            SUFFIX="nd"
+          elif [[ $DAY == "03" || $DAY == "23" ]]; then
+            SUFFIX="rd"
+          else
+            SUFFIX="th"
+          fi
+
+          DAY=$(echo $DAY | sed 's/^0//')$SUFFIX
+          FORMATTED_DATE="$MONTH $DAY $YEAR"
+
+          echo "Generated Date: $FORMATTED_DATE"
       - name: Update Date in README
         run: |
           DATE=$(date '+%d %b %Y')
@@ -35,7 +56,7 @@ jobs:
           DAY=$(echo $DAY | sed 's/^0//')$SUFFIX
           FORMATTED_DATE="$MONTH $DAY $YEAR"
 
-          sed -i "s/TODAY: .*$/TODAY: $FORMATTED_DATE/" README.md
+          sed -i "s/📅TODAY:.*$/📅TODAY: $FORMATTED_DATE/" README.md
           git add README.md
-          git commit -m "Update last updated date in README"
+          git commit -m "Update last updated date in README" || echo "Nothing to commit"
           git push
