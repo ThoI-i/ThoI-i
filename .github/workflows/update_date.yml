@@ -27,7 +27,7 @@ jobs:
 
           # 날짜 차이 계산
           DIFF_DAYS=$(( (TODAY_SECONDS - START_SECONDS) / 86400 ))
-          FORMATTED_DATE=$(date '+%b %d, %Y')
+          FORMATTED_DATE=$(date '+%b %d %Y')
 
           # D+ 업데이트
           sed -i "s/D\+[0-9]*/D+$DIFF_DAYS/" README.md
@@ -35,5 +35,5 @@ jobs:
 
           # 변경 사항 커밋
           git add README.md
-          git commit -m "Update D+XXX and last updated date in README" || echo "Nothing to commit"
+          git commit -m "Update D+ and last updated date in README" || echo "Nothing to commit"
           git push
