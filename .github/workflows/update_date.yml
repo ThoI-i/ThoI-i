@@ -56,7 +56,7 @@ jobs:
           DAY=$(echo $DAY | sed 's/^0//')$SUFFIX
           FORMATTED_DATE="$MONTH $DAY $YEAR"
 
-          sed -i "s/📅TODAY:.*$/📅TODAY: $FORMATTED_DATE/" README.md
+          sed -i "s/📅TODAY :.*$/📅TODAY : $FORMATTED_DATE/" README.md
           git add README.md
           git commit -m "Update last updated date in README" || echo "Nothing to commit"
           git push
