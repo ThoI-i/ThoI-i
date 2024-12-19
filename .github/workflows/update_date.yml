@@ -1,4 +1,4 @@
-name: Update README Date
+name: Update README Date and D+
 
 on:
   schedule:
@@ -15,7 +15,7 @@ jobs:
           git config user.email "ojw1912@gmail.com"
           git config user.name "Theo"
           git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}
-      - name: Calculate D+XXX and Update README
+      - name: Calculate D+XXX and Format Date
         run: |
           # 오늘 날짜 계산
           TODAY=$(date '+%d %b %Y')
@@ -25,13 +25,32 @@ jobs:
           START_SECONDS=$(date -d $START_DATE +%s)
           TODAY_SECONDS=$(date +%s)
 
-          # 날짜 차이 계산
+          # 날짜 차이 계산 (D+XXX)
           DIFF_DAYS=$(( (TODAY_SECONDS - START_SECONDS) / 86400 ))
-          FORMATTED_DATE=$(date '+%b %d %Y')
 
-          # D+ 업데이트
+          # 날짜 포맷 지정
+          DATE=$(date '+%d %b %Y')
+          DAY=$(echo $DATE | awk '{print $1}')
+          MONTH=$(echo $DATE | awk '{print $2}')
+          YEAR=$(echo $DATE | awk '{print $3}')
+
+          # 날짜 접미사 처리 (st, nd, rd, th)
+          if [[ $DAY == "01" || $DAY == "21" || $DAY == "31" ]]; then
+            SUFFIX="st"
+          elif [[ $DAY == "02" || $DAY == "22" ]]; then
+            SUFFIX="nd"
+          elif [[ $DAY == "03" || $DAY == "23" ]]; then
+            SUFFIX="rd"
+          else
+            SUFFIX="th"
+          fi
+
+          DAY=$(echo $DAY | sed 's/^0//')$SUFFIX
+          FORMATTED_DATE="$MONTH $DAY $YEAR"
+
+          # README 파일 업데이트
           sed -i "s/\+!@#*/\+$DIFF_DAYS/" README.md
-          sed -i "s/📅TODAY :.*$/📅TODAY : $FORMATTED_DATE/" README.md
+          sed -i "s/📅TODAY:.*$/📅TODAY: $FORMATTED_DATE/" README.md
 
           # 변경 사항 커밋
           git add README.md
