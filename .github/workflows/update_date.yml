@@ -1,25 +1,21 @@
-name: Update Date in README
+name: Update README Date
 
 on:
   schedule:
     - cron: '0 0 * * *'  # 매일 자정에 실행
-  workflow_dispatch:  # 수동 트리거 추가
+  workflow_dispatch:
 
 jobs:
-  update-readme:
+  update-readme-date:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-
-      - name: Set Git Remote
-        run: |
-          git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}
-
-      - name: Update Date
+      - name: Update Date in README
         run: |
           DATE=$(date '+%Y-%m-%d')
           sed -i "s/\\[Last Updated\\]: .*$/[Last Updated]: $DATE/" README.md
           git config user.email "ojw1912@gmail.com"
           git config user.name "Theo"
-          git diff-index --quiet HEAD || git commit -am "Automatically update date in README" || echo "No changes to commit"
+          git add README.md
+          git commit -m "Update last updated date in README"
           git push
