@@ -29,7 +29,7 @@ jobs:
           DIFF_DAYS=$(( (TODAY_SECONDS - START_SECONDS) / 86400 ))
           FORMATTED_DATE=$(date '+%b %d, %Y')
 
-          # D+XXX 업데이트
+          # D+ 업데이트
           sed -i "s/D\+[0-9]*/D+$DIFF_DAYS/" README.md
           sed -i "s/📅TODAY :.*$/📅TODAY : $FORMATTED_DATE/" README.md
 
