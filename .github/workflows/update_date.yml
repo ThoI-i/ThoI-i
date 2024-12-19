@@ -10,12 +10,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      - name: Configure Git
+        run: |
+          git config user.email "ojw1912@gmail.com"
+          git config user.name "Theo"
+          git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}
       - name: Update Date in README
         run: |
           DATE=$(date '+%Y-%m-%d')
           sed -i "s/\\[Last Updated\\]: .*$/[Last Updated]: $DATE/" README.md
-          git config user.email "ojw1912@gmail.com"
-          git config user.name "Theo"
           git add README.md
           git commit -m "Update last updated date in README"
           git push
