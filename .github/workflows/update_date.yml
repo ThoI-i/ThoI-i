@@ -2,7 +2,8 @@ name: Update README Date and D+
 
 on:
   schedule:
-    - cron: '40 2 * * *'  # 한국 시간 오전 11시 12분  workflow_dispatch:
+    - cron: '0 15 * * *'  # UTC 기준 오후 3시 → 한국 시간 자정
+  workflow_dispatch:
 
 jobs:
   update-readme-date:
