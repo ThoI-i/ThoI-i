@@ -52,7 +52,7 @@ jobs:
           FORMATTED_DATE="$MONTH $DAY $YEAR"
 
           # README 파일 업데이트
-          sed -i "s/\+[0-9]*/\+$DIFF_DAYS/" README.md# README 파일 업데이트
+          sed -i "s/\+[0-9]*/\+$DIFF_DAYS/" README.md
           sed -i "s/📅TODAY :.*$/📅TODAY : $FORMATTED_DATE/" README.md
 
 
