@@ -17,6 +17,9 @@ jobs:
           git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}
       - name: Calculate D+XXX and Format Date
         run: |
+          # 한국 시간대 설정
+          export TZ=Asia/Seoul
+
           # 오늘 날짜 계산
           TODAY=$(date '+%d %b %Y')
 
@@ -50,9 +53,9 @@ jobs:
 
           # README 파일 업데이트
           sed -i "s/\+[0-9]*/\+$DIFF_DAYS/" README.md
-          sed -i "s/📅TODAY :.*$/📅TODAY : $FORMATTED_DATE/" README.md
+          sed -i "s/??TODAY :.*$/??TODAY : $FORMATTED_DATE/" README.md
 
           # 변경 사항 커밋
           git add README.md
-          git commit -m "Update D+ and last updated date in README" || echo "Nothing to commit"
+          git commit -m "Update D+ and TODAY in README" || echo "Nothing to commit"
           git push
