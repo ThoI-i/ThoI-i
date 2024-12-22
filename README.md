@@ -14,7 +14,7 @@
 ![JDK Badge](https://img.shields.io/badge/-JDK_23-007396?logo=java&logoColor=white&labelColor=007396)
 ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
-## ⚓ Set Sail of Programming on Oct 7th 2024 | D+0 | 🚀DAY, Month Date, Year
+## ⚓ Set Sail of Programming on Oct 7th 2024 | D+76 | 🚀DAY, Month Date, Year
 **✏️[K-디지털 트레이닝: 자바(프론트엔드&백엔드, 풀스택) 6기](https://www.choongang.co.kr/html/sub03_07_n.php?#kangnam) : ✈️Ongoing : 📅Oct 7th 2024 - April 1st 2025 🪄[Taught by Soon9](https://github.com/soongu)**
 
 ## 🎞️ Previous Project
