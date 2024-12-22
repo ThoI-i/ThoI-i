@@ -1,0 +1,64 @@
+name: Update README Date and D+
+
+on:
+  schedule:
+    - cron: '0 15 * * *'  # UTC 기준 오후 3시 → 한국 시간 자정
+  workflow_dispatch:
+
+jobs:
+  update-readme-date:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Configure Git
+        run: |
+          git config user.email ${{ secrets.GIT_EMAIL }}
+          git config user.name ${{ secrets.GIT_NAME }}
+          git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}
+      - name: Calculate D+ and TODAY Format
+        run: |
+          # 한국 시간대 설정
+          export TZ=Asia/Seoul
+
+          # 오늘 날짜 계산
+          TODAY=$(date '+%d %b %Y')
+
+          # 기준일 계산
+          START_DATE="2024-10-07"
+          START_SECONDS=$(date -d $START_DATE +%s)
+          TODAY_SECONDS=$(date +%s)
+
+          # 날짜 차이 계산 (D+)
+          DIFF_DAYS=$(( (TODAY_SECONDS - START_SECONDS) / 86400 ))
+
+          # 날짜 포맷 지정
+          DATE=$(date '+%d %b %Y')
+          DAY=$(echo $DATE | awk '{print $1}')
+          MONTH=$(echo $DATE | awk '{print $2}')
+          YEAR=$(echo $DATE | awk '{print $3}')
+
+          # 요일 계산 (대문자로 변환)
+          WEEKDAY=$(date '+%a' | tr '[:lower:]' '[:upper:]')
+
+          # 날짜 접미사 처리 (st, nd, rd, th)
+          if [[ $DAY == "01" || $DAY == "21" || $DAY == "31" ]]; then
+            SUFFIX="st"
+          elif [[ $DAY == "02" || $DAY == "22" ]]; then
+            SUFFIX="nd"
+          elif [[ $DAY == "03" || $DAY == "23" ]]; then
+            SUFFIX="rd"
+          else
+            SUFFIX="th"
+          fi
+
+          DAY=$(echo $DAY | sed 's/^0//')$SUFFIX
+          FORMATTED_DATE="$WEEKDAY, $MONTH $DAY, $YEAR"
+
+          # README 파일 업데이트
+          sed -i "s/\+[0-9]*/\+$DIFF_DAYS/" README.md 
+          sed -i "s/TODAY:.*$/TODAY: $FORMATTED_DATE/" README.md
+
+          # 변경 사항 커밋
+          git add README.md
+          git commit -m "Update D+ and TODAY in README" || echo "Nothing to commit"
+          git push
