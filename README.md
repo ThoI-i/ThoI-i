@@ -38,7 +38,7 @@
 <h2> </h2>
  <h3 align="center"> 🎞️ Previous Project 🎞️ </h3>
    
-  <h5>
+  <h4>
     <a href="https://github.com/ThoI-i/1st-PJ-CSS-Clone" style="text-decoration: none; color: inherit;">
       1️⃣CSS Clone : Kakao Page
     </a>
@@ -47,6 +47,6 @@
       2️⃣Javascript : Feel-me-up
     </a>
 	📅Nov 19th, 2024 - Nov 28th, 2024
-  </h5>
+  </h4>
 
 </div>
