@@ -38,11 +38,11 @@
     <a href="https://github.com/ThoI-i/1st-PJ-CSS-Clone" style="text-decoration: none; color: inherit;">
       1️⃣CSS Clone : Kakao Page
     </a>
-	ㅤ📅Oct 24th, 2024 - Oct 29th, 2024<br>
+	📅Oct 24th, 2024 - Oct 29th, 2024<br>
     <a href="https://github.com/2nd-PJ-Javascript/Fill-me-Up" style="text-decoration: none; color: inherit;">
       2️⃣Javascript : Feel-me-up
     </a>
-	ㅤ📅Nov 19th, 2024 - Nov 28th, 2024
+	📅Nov 19th, 2024 - Nov 28th, 2024
   </h5>
 
 </div>
