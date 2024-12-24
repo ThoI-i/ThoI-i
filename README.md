@@ -1,16 +1,22 @@
 ## ⚙️ Tech Stack with Tools
+<div align="center">
+  
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&labelColor=F7DF1E)<br>
 ![Java Badge](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&labelColor=007396)
-![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)<br>
-![Oracle Badge](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)<br>
+![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
+![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)<br>
+![Oracle Badge](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
+![MariaDB Badge](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
+<br>
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)<br>
 ![VS Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code_1.95.3-007ACC?logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ_IDEA_2024.2.2(Community_Edition)-000000?logo=intellijidea&logoColor=white&labelColor=000000)
 ![JDK Badge](https://img.shields.io/badge/-JDK_17-007396?logo=java&logoColor=white&labelColor=007396)<br>
-![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+</div>
+
 
 ## ⚓ Set Sail of Programming on Oct 7th, 2024 | D+78 | 🚀TODAY: TUE, Dec 24th, 2024
 **✏️[K-디지털 트레이닝: 자바(프론트엔드&백엔드, 풀스택) 6기](https://www.choongang.co.kr/html/sub03_07_n.php?#kangnam) : ✈️Ongoing: 📅Oct 7th, 2024 - April 1st, 2025 🪄[Taught by Soon9](https://github.com/soongu)**
