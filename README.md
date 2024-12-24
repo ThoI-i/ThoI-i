@@ -23,15 +23,30 @@
 <h2> </h2>
 <h3 align="center"> ⚓ Set Sail of Programmer: Oct 7th, 2024<br>
                 🚢 D+78 🚀 TODAY: TUE, Dec 24th, 2024 </h3>
-                    
-##### ✏️[K-디지털 트레이닝: 자바(프론트엔드&백엔드, 풀스택) 6기](https://www.choongang.co.kr/html/sub03_07_n.php?#kangnam) : ✈️Ongoing: 📅Oct 7th, 2024 - April 1st, 2025 🪄[Taught by Soon9](https://github.com/soongu)
+<div align="center">
+  <h5>
+    <a href="https://www.choongang.co.kr/html/sub03_07_n.php?#kangnam" style="text-decoration: none; color: inherit;">
+      ✏️K-디지털 트레이닝: 자바(프론트엔드&백엔드, 풀스택) 6기]
+    </a>
+	📅Oct 7th, 2024 - April 1st, 2025 🪄<a href="https://github.com/soongu">Taught by Soon9</a>
+  </h5>
+
+
+
 
 
 <h2> </h2>
  <h3 align="center"> 🎞️ Previous Project 🎞️ </h3>
- <div align="center">
    
-**[1️⃣CSS Clone : Kakao Page](https://github.com/ThoI-i/1st-PJ-CSS-Clone)　📅Oct 24th, 2024 - Oct 29th, 2024**<br>
-**[2️⃣Javascript : Feel-me-up](https://github.com/2nd-PJ-Javascript/Fill-me-Up)　📅Nov 19th, 2024 - Nov 28th, 2024**
+  <h5>
+    <a href="https://github.com/ThoI-i/1st-PJ-CSS-Clone" style="text-decoration: none; color: inherit;">
+      1️⃣CSS Clone : Kakao Page
+    </a>
+	📅Oct 24th, 2024 - Oct 29th, 2024<br>
+    <a href="https://github.com/2nd-PJ-Javascript/Fill-me-Up" style="text-decoration: none; color: inherit;">
+      2️⃣Javascript : Feel-me-up
+    </a>
+	📅Nov 19th, 2024 - Nov 28th, 2024
+  </h5>
 
 </div>
