@@ -24,7 +24,7 @@
                      
 **✏️[K-디지털 트레이닝: 자바(프론트엔드&백엔드, 풀스택) 6기](https://www.choongang.co.kr/html/sub03_07_n.php?#kangnam) : ✈️Ongoing: 📅Oct 7th, 2024 - April 1st, 2025 🪄[Taught by Soon9](https://github.com/soongu)**
 
- <h2 align="center"> 🎞️ Previous Project </h2>
+ <h2 align="center"> 🎞️ Previous Project 🎞️ </h2>
  <div align="center">
    
 **[1️⃣CSS Clone : Kakao Page](https://github.com/ThoI-i/1st-PJ-CSS-Clone)　📅Oct 24th, 2024 - Oct 29th, 2024**
