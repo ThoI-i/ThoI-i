@@ -19,8 +19,8 @@
 </div>
 
 
-<h2 align="center"> ⚓ Set Sail of Programming on Oct 7th, 2024<br>
-                🚢 D+78ㅤ ㅤ🚀 TODAY: TUE, Dec 24th, 2024 </h2>
+<h2 align="center"> ⚓ Set Sail of Programmer : Oct 7th, 2024<br>
+                🚢 D+78ㅤ🚀 TODAY: TUE, Dec 24th, 2024 </h2>
                      
 **✏️[K-디지털 트레이닝: 자바(프론트엔드&백엔드, 풀스택) 6기](https://www.choongang.co.kr/html/sub03_07_n.php?#kangnam) : ✈️Ongoing: 📅Oct 7th, 2024 - April 1st, 2025 🪄[Taught by Soon9](https://github.com/soongu)**
 
