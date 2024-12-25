@@ -1,9 +1,11 @@
 <div align="center">
   <img src="https://github.com/ThoI-i/ThoI-i/blob/main/Moomin%20The%20Moomin%20Family.%20%C2%A9%20Moomin%20Characters%E2%84%A2..png.png" alt="Moomin Family">
 </div>
-<div align="right">The Moomin Family. © Moomin Characters™<h2> </h2>
+<div align="right">The Moomin Family. © Moomin Characters™
 </div>
-<h3 align="center">⚙️ Tech Stack with Tools ⚙️<br><br>
+<h2> </h2>
+<h3 align="center">⚙️ Tech Stack with Tools ⚙️
+</h3>
  <div align="center">
 	 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
@@ -19,10 +21,11 @@
 ![VS Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code_1.95.3-007ACC?logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ_IDEA_2024.2.2(Community_Edition)-000000?logo=intellijidea&logoColor=white&labelColor=000000)
 ![JDK Badge](https://img.shields.io/badge/-JDK_17-007396?logo=java&logoColor=white&labelColor=007396)<br>
-</div></h3>
+</div>
 <h2> </h2>
 <h3 align="center"> ⚓Set Sail of Programmer: Oct 7th, 2024<br>
                 🚢D+79　🚀TODAY: WED, Dec 25th, 2024
+</h3>
 <div align="center">
   <h5>
     <a href="https://www.choongang.co.kr/html/sub03_07_n.php?#kangnam" style="text-decoration: none; color: inherit;">
