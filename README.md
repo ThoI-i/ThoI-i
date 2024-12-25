@@ -12,8 +12,7 @@
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
 ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)<br>
 ![Oracle Badge](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
-![MariaDB Badge](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
-<br>
+![MariaDB Badge](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)<br>
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)<br>
 ![VS Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code_1.95.3-007ACC?logo=visual-studio-code&logoColor=white)
