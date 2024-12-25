@@ -4,10 +4,8 @@
 <div align="right">The Moomin Family. © Moomin Characters™
 </div>
 <h2> </h2>
+
 <h3 align="center">⚙️ Tech Stack with Tools ⚙️</h3>
-
-
-
  <div align="center">
 	 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
@@ -25,9 +23,9 @@
 ![JDK Badge](https://img.shields.io/badge/-JDK_17-007396?logo=java&logoColor=white&labelColor=007396)<br>
 </div>
 <h2> </h2>
+
 <h3 align="center"> ⚓Set Sail of Programmer: Oct 7th, 2024<br>
-                🚢D+79　🚀TODAY: WED, Dec 25th, 2024
-	
+                🚢D+79　🚀TODAY: WED, Dec 25th, 2024	
 <div align="center">
   <h5>
     <a href="https://www.choongang.co.kr/html/sub03_07_n.php?#kangnam" style="text-decoration: none; color: inherit;">
@@ -35,10 +33,9 @@
     </a>
 ㅤㅤ📅Oct 7th, 2024 - April 1st, 2025 🪄<a href="https://github.com/soongu">Taught by Soon9</a>
   </h5>
-	
 <h2> </h2>
+	
  <h3 align="center"> 🎞️ Previous Project 🎞️ </h3>
-   
   <h5>
     <a href="https://github.com/ThoI-i/1st-PJ-CSS-Clone" style="text-decoration: none; color: inherit;">
       1️⃣CSS Clone : Kakao Page
@@ -49,5 +46,4 @@
     </a>
 	📅Nov 19th, 2024 - Nov 28th, 2024
   </h5>
-
 </div>
