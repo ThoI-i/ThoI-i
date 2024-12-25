@@ -1,9 +1,9 @@
 <div align="center">
   <img src="https://github.com/ThoI-i/ThoI-i/blob/main/Moomin%20The%20Moomin%20Family.%20%C2%A9%20Moomin%20Characters%E2%84%A2..png.png" alt="Moomin Family">
 </div>
-<div align="right"><h6>The Moomin Family. © Moomin Characters™
+<div align="right"><h6>The Moomin Family. © Moomin Characters™</h6>
+<h2> </h2>
 </div>
-<h2> </h2></h6>
 <h3 align="center">⚙️ Tech Stack with Tools ⚙️</h3>
 <div align="center">
 
