@@ -49,7 +49,7 @@
     </a>
 	📅Nov 19th, 2024 - Nov 28th, 2024<br>
     <a href="https://github.com/3rd-PJ-Spring/Checkpoint" style="text-decoration: none; color: inherit;">
-      3️⃣Spring : Checkpoint　　
+      3️⃣Spring 　　: Checkpoint
     </a>
 	📅Jan 　6th, 2025 - Jan 24th, 2025
   </h5>
