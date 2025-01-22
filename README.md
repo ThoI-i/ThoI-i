@@ -13,6 +13,8 @@
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&labelColor=F7DF1E)<br>
 ![Java Badge](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&labelColor=007396)
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
+![Spring Boot Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+![MyBatis Badge](https://img.shields.io/badge/MyBatis-007396?logo=mybatis&logoColor=white)
 <br>
 ![Oracle Badge](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
 ![MariaDB Badge](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
