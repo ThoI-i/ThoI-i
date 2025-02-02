@@ -18,13 +18,13 @@
 ![Spring Boot Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
 ![MyBatis Badge](https://img.shields.io/badge/MyBatis-007396?logo=mybatis&logoColor=white)
 <br>
-![Oracle Badge](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
 ![MariaDB Badge](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
+![Oracle Badge](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)<br>
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)<br>
 ![VS Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code_1.95.3-007ACC?logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ_IDEA_2024.2.2(Community_Edition)-000000?logo=intellijidea&logoColor=white&labelColor=000000)
+![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ_IDEA_2024.2.2(Community_Edition)-000000?logo=intellijidea&logoColor=white&labelColor=000000)<br>
 ![JDK Badge](https://img.shields.io/badge/-JDK_17-007396?logo=java&logoColor=white&labelColor=007396)
 ![Gradle Badge](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white)
 ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)<br>
