@@ -17,10 +17,13 @@
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
 ![Spring Boot Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
 ![MyBatis Badge](https://img.shields.io/badge/MyBatis-007396?logo=mybatis&logoColor=white)
+![JPA Badge](https://img.shields.io/badge/JPA-6DB33F?logo=Spring&logoColor=white)
 <br>
 ![MariaDB Badge](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
 ![Oracle Badge](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
-![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)<br>
+![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![QueryDSL Badge](https://img.shields.io/badge/QueryDSL-0769AD?logo=QueryDSL&logoColor=white)
+<br>
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)<br>
 ![VS Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code_1.95.3-007ACC?logo=visual-studio-code&logoColor=white)
