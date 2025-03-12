@@ -31,7 +31,9 @@
 ![JDK Badge](https://img.shields.io/badge/-JDK_17-007396?logo=java&logoColor=white&labelColor=007396)
 ![Gradle Badge](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white)
 ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)<br>
-![AWS Badge](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![AWS Badge](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white) 
+![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
 </div>
 <h2> </h2>
 <h3 align="center"> ⚓Set Sail of Programmer: Oct 7th, 2024<br>
