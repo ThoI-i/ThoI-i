@@ -16,6 +16,7 @@
 ![Java Badge](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&labelColor=007396)
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
 ![Spring Boot Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+![Spring Security Badge](https://img.shields.io/badge/Spring%20Security-6DB33F?logo=spring&logoColor=white)
 ![MyBatis Badge](https://img.shields.io/badge/MyBatis-007396?logo=mybatis&logoColor=white)
 ![JPA Badge](https://img.shields.io/badge/JPA-6DB33F?logo=Spring&logoColor=white)
 <br>
