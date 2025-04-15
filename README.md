@@ -38,7 +38,7 @@
 </div>
 <h2> </h2>
 <h3 align="center"> ⚓Set Sail of Programmer: Oct 7th, 2024<br>
-	🚢D+190　🚀TODAY: TUE, Apr 15th, 2025
+	🚢D+191　🚀TODAY: WED, Apr 16th, 2025
 <div align="center">
   <h5>
     <a href="https://www.choongang.co.kr/html/sub03_07_n.php?#kangnam" style="text-decoration: none; color: inherit;">
