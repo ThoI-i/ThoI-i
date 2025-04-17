@@ -61,6 +61,13 @@
     <a href="https://github.com/3rd-PJ-Spring/Checkpoint" style="text-decoration: none; color: inherit;">
       3️⃣Spring 　　: Checkpoint
     </a>
-	📅Jan 　6th, 2025 - Jan 24th, 2025
+	📅Jan 　6th, 2025 - Jan 24th, 2025<br>
+    <a href="https://github.com/ThoI-i/Map_KAKAO_APP" style="text-decoration: none; color: inherit;">
+      4️⃣APP　/
+    </a>
+<a href="https://github.com/ThoI-i/Map_KAKAO_API" style="text-decoration: none; color: inherit;">
+	　API: MemoryEat
+    </a>
+	📅Mar 4th, 2025 - Apr 2nd, 2025<br>
   </h5>
 </div>
