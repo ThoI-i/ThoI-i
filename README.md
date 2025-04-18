@@ -28,12 +28,6 @@
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![QueryDSL Badge](https://img.shields.io/badge/QueryDSL-0769AD?logo=QueryDSL&logoColor=white)
 <br>
-![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)<br>
-![VS Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code_1.95.3-007ACC?logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ_IDEA_2024.2.2(Community_Edition)-181717?logo=intellijidea&logoColor=white&labelColor=000000)
-![JDK Badge](https://img.shields.io/badge/-JDK_17-007396?logo=java&logoColor=white&labelColor=007396)
-<br>
 ![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 ![Gradle Badge](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white)
 <br>
@@ -41,6 +35,13 @@
 ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![Nginx Badge](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+<br>
+![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+<br>
+![VS Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code_1.95.3-007ACC?logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ_IDEA_2024.2.2(Community_Edition)-181717?logo=intellijidea&logoColor=white&labelColor=000000)
+![JDK Badge](https://img.shields.io/badge/-JDK_17-007396?logo=java&logoColor=white&labelColor=007396)
 <br>
 ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)<br>
 </div>
