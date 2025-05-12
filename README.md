@@ -18,6 +18,8 @@
 ![Spring Boot Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
 ![MyBatis Badge](https://img.shields.io/badge/MyBatis-007396?logo=mybatis&logoColor=white)
 ![JPA Badge](https://img.shields.io/badge/JPA-6DB33F?logo=Spring&logoColor=white)
+![Ruby Badge](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white)
+![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 <br>
 ![JWT Badge](https://img.shields.io/badge/JWT-181717?logo=jsonwebtokens&logoColor=white)
 ![Spring Security Badge](https://img.shields.io/badge/Spring%20Security-6DB33F?logo=spring&logoColor=white)
