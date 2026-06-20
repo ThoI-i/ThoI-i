@@ -49,7 +49,7 @@
 </div>
 <h2> </h2>
 <h3 align="center"> ⚓Set Sail of Programmer: Oct 7th, 2024<br>
-	🚢D+621　🚀TODAY: SAT, Jun 20th, 2026
+	🚢D+622　🚀TODAY: SUN, Jun 21st, 2026
 <div align="center">
   <h5>
     <a href="https://www.choongang.co.kr/html/sub03_07_n.php?#kangnam" style="text-decoration: none; color: inherit;">
